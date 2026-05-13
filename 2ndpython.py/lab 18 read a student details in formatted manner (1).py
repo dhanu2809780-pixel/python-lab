@@ -1,0 +1,7 @@
+name=input("enter students name:")
+age=input("enter students age:")
+course=input("enter.students course:")
+print("\n---student details--")
+print(f"name:{name}")
+print(f"age:{age}")
+print(f"course:{course}")
